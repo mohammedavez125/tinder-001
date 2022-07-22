@@ -1,0 +1,33 @@
+.swipeButtons{
+    position : fixed;
+    bottom : 9vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.swipeButton {
+    background-color: #fff;
+    box-shadow: 0px 10px 53px 0px rgba(0,0,0,0.5)!important;
+}
+
+.button_replay{
+    padding: 1vw;
+    color: orange;
+}
+.button_close{
+    padding: 1vw;
+    color: red;
+} 
+.button_starRate{
+    padding: 1vw;
+    color: aqua;
+} 
+.button_favorite{
+    padding: 1vw;
+    color: palevioletred;
+} 
+.button_flashOn{
+    padding: 1vw;
+    color: magenta;
+}

@@ -1,0 +1,11 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.siteLogo{
+    width: 10vw;
+    /* 20vw for phone */
+}
